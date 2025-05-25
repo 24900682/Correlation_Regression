@@ -1,3 +1,4 @@
+
 # Correlation and regression for data analysis
 # Aim : 
 
@@ -65,4 +66,4 @@ plt.legend(['Regression Line','Data points'])
 
 # Output 
 
-The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated .
